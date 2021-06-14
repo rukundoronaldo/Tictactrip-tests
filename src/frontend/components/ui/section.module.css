@@ -1,0 +1,11 @@
+.section {
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+
+.nsection {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}

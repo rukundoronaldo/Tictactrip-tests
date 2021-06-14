@@ -1,0 +1,25 @@
+.carte-component {
+    text-align: center;
+    margin-top: 150px;
+    background-color: #f2f4f4;
+    padding: 50px;
+}
+.carte-component-btn {
+    font-family: Circular,Helvetica,Arial,sans-serif;
+    color: #FFFFFF;
+    font-size: 1.429rem;
+    font-weight: bold;
+    line-height: 1.4;
+    letter-spacing: -0.25px;
+    background-color: #072456;
+    border-radius: 6px;
+    padding: 13px 28px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.carte-component-logo{
+    margin-right: 44px;
+    margin-left: 152px;
+    margin-top: 58px;
+}

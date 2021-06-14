@@ -1,0 +1,67 @@
+.discr{
+    color: #21314D;
+    font-size: 1.429rem;
+    line-height: normal;
+    max-width: 420px;
+    margin-top: 10px;
+    padding: 0px;
+    font-weight: 100;
+    text-align: center;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+}
+
+.title{
+    color: #21314D;
+    text-align: center;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+}
+.center{
+    text-align: center;
+    color: #21314D;
+    font-size: 1.429rem;
+    line-height: normal;
+    max-width: 420px;
+    margin: auto;
+    padding: 0px;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+
+}
+
+.freuro{
+    display: flex;
+    list-style: none;
+}
+
+.freuro li {
+    padding-top: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-right: 10px;
+    border-bottom: 4px solid black;
+}
+.freurodiv{
+    width: 20%;
+    margin: auto;
+}
+
+.france{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    list-style: none;
+    padding: 20px;
+}
+.france li {
+    padding: 10px;
+
+}
+.france li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.france-div{
+    width: 60%;
+    margin:  10px 25%;
+
+}
+

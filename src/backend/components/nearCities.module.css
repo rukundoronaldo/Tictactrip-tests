@@ -1,0 +1,16 @@
+.span {
+    padding: 20px;
+}
+
+.oneCity{
+    padding: 10px;
+    
+}
+.pointer:hover {
+    cursor: pointer;
+    background-color: #f2f4f4;
+}
+
+.goodlook:hover {
+        background-color: #f2f4f4;
+}

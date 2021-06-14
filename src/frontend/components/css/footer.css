@@ -1,0 +1,30 @@
+.lists {
+    list-style: none;
+}
+
+.list1 ul li {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.list2 ul li {
+    padding: 10px;
+    border-bottom: 1px solid black;
+    padding-right: 524px;
+    cursor: pointer;
+}
+
+.big-div {
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    width: 60%;
+    margin: 10px 20%;
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+ .small{
+     text-align: center;
+     margin-bottom: 100px;
+     margin-top: 200px;
+ }
